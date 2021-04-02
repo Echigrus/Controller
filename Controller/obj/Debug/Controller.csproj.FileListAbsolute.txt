@@ -1,0 +1,12 @@
+C:\Users\Echigrus\Desktop\РАЗРАБОТКА\Controller\bin\Debug\Controller.exe
+C:\Users\Echigrus\Desktop\РАЗРАБОТКА\Controller\bin\Debug\Controller.pdb
+C:\Users\Echigrus\Desktop\РАЗРАБОТКА\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\Echigrus\Desktop\РАЗРАБОТКА\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\Echigrus\Desktop\РАЗРАБОТКА\Controller\obj\Debug\Controller.exe
+C:\Users\Echigrus\Desktop\РАЗРАБОТКА\Controller\obj\Debug\Controller.pdb
+C:\Users\Echigrus\Desktop\Development\Controller\bin\Debug\Controller.exe
+C:\Users\Echigrus\Desktop\Development\Controller\bin\Debug\Controller.pdb
+C:\Users\Echigrus\Desktop\Development\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\Echigrus\Desktop\Development\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\Echigrus\Desktop\Development\Controller\obj\Debug\Controller.exe
+C:\Users\Echigrus\Desktop\Development\Controller\obj\Debug\Controller.pdb
